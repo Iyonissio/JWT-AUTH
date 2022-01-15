@@ -11,5 +11,5 @@ git clone https://github.com/Iyonissio/JWT-AUTH.git
 #Setup Frontend
 
 1. cd refresh-token-interval/frontend
-2. npm install
-3. npm start
+2. npm install / yarn
+3. npm start / yarn start
